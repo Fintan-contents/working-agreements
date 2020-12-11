@@ -1,4 +1,4 @@
-Working agreement
+# Working agreement
 ==================
 
 ## Purpose
