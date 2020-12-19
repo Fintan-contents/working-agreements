@@ -13,7 +13,7 @@ Working agreements are a common practice in agile development, but they are also
 
 ## Principles
 
-* Standards that will make the team’s activities easier are discussed and decided by the team members themselves.
+* Rules that will make the team’s activities easier are discussed and decided by the team members themselves.
 * Points discussed and agreed upon by the team are documented. 
   * It is important that everyone in the team is involved in the discussion.
 
@@ -27,7 +27,7 @@ Working agreements are a common practice in agile development, but they are also
  * For example, it could be reviewed once every two sprints.
 
 ![A working agreement](./img/WA.jpg)  
-*A working agreement*
+*An example of working agreement*
 
 ## Examples
 
@@ -41,7 +41,7 @@ Working agreements are a common practice in agile development, but they are also
 * Always respond
 * Keep an eye on chats at all times
 * Speak calmly without raising your voice
-* Do not go with “In Progress” tasks remaining. Return unfinished tasks to “New”. 
+* Do not go home with “In Progress” tasks remaining. Return unfinished tasks to “New”. 
 * Always set an expected number of hours for a task
 * Always record working time when closing a task
 * Merge during the same day. If you are working overtime when the reviewer is not there, request a code review and merge first thing in the morning. 
